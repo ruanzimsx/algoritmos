@@ -1,0 +1,14 @@
+programa SOMA {
+	funcao inicio() {
+	    
+	    escreva("Seja bem-vindo ao Aplicativo Soma")
+	    inteiro n1, n2, resultado
+	    escreva("DIgite o primeiro número: ")
+	    leia(n1)
+	    escreva("DIgite o segundo número: ")
+	    leia(n2)
+	    resultado = (n1+n2)
+	    escreva("O resultado da soma é: ", resultado)
+	    
+	}
+}
